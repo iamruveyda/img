@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256pt" height="256pt" viewBox="0 0 256 256" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="86" y1="22.171881" x2="86" y2="152.542496" gradientTransform="matrix(1.488372,0,0,1.488372,0,0)">
+<stop offset="0" style="stop-color:rgb(100%,32.549021%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(27.058825%,7.843138%,35.294119%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="86" y1="51.30975" x2="86" y2="121.184753" gradientTransform="matrix(1.488372,0,0,1.488372,0,0)">
+<stop offset="0" style="stop-color:rgb(100%,62.352943%,43.921569%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(54.509807%,15.686275%,71.372551%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface5888573">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 204 224 L 52 224 C 40.972656 224 32 215.027344 32 204 L 32 52 C 32 40.972656 40.972656 32 52 32 L 204 32 C 215.027344 32 224 40.972656 224 52 L 224 204 C 224 215.027344 215.027344 224 204 224 Z M 52 40 C 45.382812 40 40 45.382812 40 52 L 40 204 C 40 210.617188 45.382812 216 52 216 L 204 216 C 210.617188 216 216 210.617188 216 204 L 216 52 C 216 45.382812 210.617188 40 204 40 Z M 52 40 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 179.890625 90.8125 L 190.964844 81.476562 C 193.015625 79.742188 191.808594 76.371094 189.136719 76.371094 L 157.046875 76.371094 L 129.953125 142.164062 L 99.9375 76.367188 L 66.855469 76.367188 C 64.3125 76.367188 63.039062 79.480469 64.835938 81.300781 L 77.097656 93.703125 L 77.097656 163.039062 L 65.675781 180.371094 L 99.941406 180.371094 L 88.519531 163.035156 L 88.519531 108.144531 L 114.21875 180.367188 L 128.496094 180.367188 L 157.050781 108.144531 L 157.050781 168.8125 L 145.632812 180.367188 L 191.320312 180.367188 L 179.898438 168.8125 L 179.898438 90.8125 Z M 179.890625 90.8125 "/>
+</g>
+</svg>
